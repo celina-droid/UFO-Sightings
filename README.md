@@ -12,7 +12,7 @@ Level 1: Automatic Table and Date Search
     - Country
     - Shape
     - Comment
-- Created an input tag which would filter the date/time column according to the provided input.
+- Created an input tag which would filter the date/time column according to the provided input and render the filtered table to the webpage.
 
 Level 2: Multiple Search Categories
 - Here, I have created multiple input tags to filter the data.
