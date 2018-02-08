@@ -103,3 +103,8 @@ renderTable();
 // Render the table for the first time on page load
 renderTable();
 
+//Add pagination to the table to show 10 -100 entries per page
+
+$(document).ready(function() {
+  $('#table').DataTable();
+});
